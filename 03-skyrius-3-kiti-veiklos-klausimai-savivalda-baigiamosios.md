@@ -166,7 +166,7 @@ Tai tiesiogiai įtvirtina 3 dalis: antstolio veiklos dokumentai yra Nacionalinio
 
 *e-TAR redakcinė pastaba:* Straipsnio pakeitimai: Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
 
-43¹ straipsnis (šaltinyje pažymėtas kaip „431 straipsnis“) yra vykdymo proceso skaitmeninimo teisinis pagrindas. 1 dalis nustato, kad su vykdomosiomis bylomis susiję elektroniniai duomenys tvarkomi naudojant informacines ir elektroninių ryšių technologijas teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru, ir kad vykdomosios bylos gali būti tvarkomos vien elektronine forma. Kai vedama elektroninė byla, popieriniai dokumentai skaitmeninami pagal 6 dalį.
+43¹ straipsnis yra vykdymo proceso skaitmeninimo teisinis pagrindas. 1 dalis nustato, kad su vykdomosiomis bylomis susiję elektroniniai duomenys tvarkomi naudojant informacines ir elektroninių ryšių technologijas teisingumo ministro nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru, ir kad vykdomosios bylos gali būti tvarkomos vien elektronine forma. Kai vedama elektroninė byla, popieriniai dokumentai skaitmeninami pagal 6 dalį.
 
 2 dalis įtvirtina vykdymo proceso šalių ir suinteresuotų asmenų teisę susipažinti su elektronine vykdomąja byla ir gauti dokumentų kopijas, taip pat teisę įstatymų nustatyta tvarka susipažinti su užbaigtomis bylomis. Kontora turi sudaryti technines sąlygas šioms teisėms įgyvendinti, įskaitant nuotolinį susipažinimą. Tai yra esminė vykdymo proceso skaidrumo ir gynybos teisės garantija: skolininkas gali patikrinti, kokie veiksmai atlikti ir kaip apskaičiuotos sumos, ir tinkamai pasirengti skundui teismui (27 straipsnio 1 dalis).
 

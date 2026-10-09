@@ -76,7 +76,7 @@ Patirties reikalavimas turi dvi alternatyvas: ne mažiau kaip dvejus metus buvę
 >
 > a) yra nuteistas ir nuo bausmės atlikimo arba atleidimo nuo bausmės atlikimo dienos nėra praėję dvylika metų;
 >
-> b) yra atleistas nuo baudžiamosios atsakomybės Lietuvos Respublikos baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję penkeri metai arba yra atleistas Baudžiamojo kodekso 391 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję dešimt metų;
+> b) yra atleistas nuo baudžiamosios atsakomybės Lietuvos Respublikos baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję penkeri metai arba yra atleistas Baudžiamojo kodekso 39¹ straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję dešimt metų;
 >
 > 2) yra padaręs sunkų nusikaltimą ir:
 >
@@ -479,7 +479,7 @@ Antstolio padėjėjui pagal 2 dalį gali būti skiriamos tik dvi nuobaudos – p
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
 
-15¹ straipsnis (šaltinyje dėl prarasto viršutinio indekso pažymėtas kaip „151 straipsnis“) į įstatymą įtrauktas 2024 m. ir integruoja antstolių priežiūrą pinigų plovimo ir teroristų finansavimo prevencijos srityje į antstolių savivaldos ir drausminės atsakomybės sistemą. Pagal 1 dalį Lietuvos antstolių rūmai prižiūri, ar antstolis ir antstolio atstovas laikosi Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų. Rūmai taip veikia kaip šios profesinės grupės priežiūros institucija, kurios funkcija patenka į 46 straipsnio 1 dalies 7 punkte minimą „kitų įstatymuose nustatytų funkcijų“ kategoriją.
+15¹ straipsnis į įstatymą įtrauktas 2024 m. ir integruoja antstolių priežiūrą pinigų plovimo ir teroristų finansavimo prevencijos srityje į antstolių savivaldos ir drausminės atsakomybės sistemą. Pagal 1 dalį Lietuvos antstolių rūmai prižiūri, ar antstolis ir antstolio atstovas laikosi Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų. Rūmai taip veikia kaip šios profesinės grupės priežiūros institucija, kurios funkcija patenka į 46 straipsnio 1 dalies 7 punkte minimą „kitų įstatymuose nustatytų funkcijų“ kategoriją.
 
 2 dalis nustato, kad galimai pažeidusiam tuos reikalavimus antstoliui ar atstovui drausmės bylą gali kelti Lietuvos antstolių rūmų prezidiumas, o nagrinėja Antstolių garbės teismas. Pažymėtina, kad, skirtingai nei 13 straipsnio 2 dalyje, čia iškėlimo teisė suteikta tik prezidiumui, o teisingumo ministras neminimas. 3 dalis leidžia garbės teismui paskirti minėto įstatymo 36 straipsnio 1 dalies 1, 2 ir 6 punktuose numatytas poveikio priemones (plg. 14 straipsnio 1 dalies 6 punktą). Viena jų – 6 punkte numatyta priemonė – susijusi su įgaliojimų sustabdymu ir atleidimu (11 straipsnio 1 dalies 3 punktas, 12 straipsnio 2 dalies 10 punktas, kuriame ji įvardyta kaip leidimo vykdyti veiklą panaikinimas).
 
